@@ -9,3 +9,5 @@ To run do:
 - pip install PySimpleGUI
 
 - pip install requests
+
+Use Idle Shell to run
