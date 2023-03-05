@@ -19,5 +19,6 @@ You will be prompted to enter the URL of the Mercari listing you want to downloa
 ### mercari.py
 use IDLE or your favorite Python IDE to run mercari.py and change "item_id" in the code to the ID of the Mercari item images you want to download.
 
-### Warning: Use of this script may violate the terms of service of Mercari. Use at your own risk.
+## Warning 
+Use of this script may violate the terms of service of Mercari. Use at your own risk.
 Enjoy!
